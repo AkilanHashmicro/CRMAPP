@@ -352,6 +352,7 @@
     <Compile Include="PhoneCall_Droid.cs" />
     <Compile Include="AudioRecorderDemo_Droid.cs" />
     <Compile Include="AndroidDownloader.cs" />
+    <Compile Include="Toast_Android.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
@@ -455,6 +456,8 @@
     <AndroidResource Include="Resources\drawable-hdpi\draftimg.png" />
     <AndroidResource Include="Resources\drawable-hdpi\draft.png" />
     <AndroidResource Include="Resources\drawable-hdpi\draftquot.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\offer.png" />
+    <AndroidResource Include="Resources\drawable-hdpi\calllog.png" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\SalesApp\SalesApp.csproj">
