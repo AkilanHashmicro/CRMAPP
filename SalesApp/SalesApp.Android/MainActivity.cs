@@ -39,9 +39,7 @@ namespace SalesApp.Droid
             global::Xamarin.Forms.Forms.Init(this, bundle);
 
            Rg.Plugins.Popup.Popup.Init(this, bundle);
-
-
-
+            FFImageLoading.Forms.Platform.CachedImageRenderer.Init(true);
 
             //var intent = new Intent(ApplicationContext, typeof(PostService));
             //var source = PendingIntent.GetBroadcast(ApplicationContext, 0, intent, 0);

@@ -1,19 +1,16 @@
 ﻿using System;
-
+using SalesApp.Droid;
+using SalesApp.views;
 using Xamarin.Forms;
 
+[assembly: Xamarin.Forms.Dependency(typeof(Toast_Android))]
 namespace SalesApp.Droid
 {
-    public class Toast_Android : ContentPage
+    public class Toast_Android : Toast
     {
-        public Toast_Android()
+        public void Show(string message)
         {
-            Content = new StackLayout
-            {
-                Children = {
-                    new Label { Text = "Hello ContentPage" }
-                }
-            };
+            Android.Widget.Toast.MakeText(Android.App.Application.Context, message, Android.Widget.ToastLength.Long).Show();
         }
     }
 }

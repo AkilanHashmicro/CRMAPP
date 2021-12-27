@@ -1,0 +1,70 @@
+﻿<Properties StartupConfiguration="{C14AE4D7-F4A4-42AC-BE05-DC85A3123CED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Com Projects/Laborindo/SalesApp/SalesApp/views/Toast.cs">
+    <Files>
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/CrmLeadPage.xaml" Line="109" Column="15" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/QuotationPage.xaml" Line="84" Column="15" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/CrmLeadPage.xaml.cs" Line="89" Column="1" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/QuotationPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/OppurtunityPage.xaml" Line="98" Column="16" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/CRMOpportunityCreationPage1.xaml" Line="181" Column="1" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/DraftQuotationCreationPage.xaml" Line="968" Column="1" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/DraftQuotationCreationPage.xaml.cs" Line="340" Column="8" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/CRMOpportunityCreationPage1.xaml.cs" Line="68" Column="33" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/obj/Debug/views/CRMOpportunityCreationPage1.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/Pages/CalendarPopupPage.xaml.cs" Line="470" Column="26" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/Pages/CalendarPopupPage.xaml" Line="329" Column="19" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/Pages/AttachmentPopupPage.xaml" Line="64" Column="19" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/App.xaml.cs" Line="287" Column="1" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/models/CRMModel.cs" Line="613" Column="1" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/models/Controller.cs" Line="77" Column="24" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/LoginPage.xaml.cs" Line="70" Column="1" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/MasterPage.xaml.cs" Line="51" Column="71" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp.Android/Persistance/SQLiteDb.cs" Line="20" Column="1" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/LoginPage.xaml" Line="209" Column="17" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/SalesQuotationsListviewDetail.xaml" Line="616" Column="79" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/SalesQuotationCreationPage.xaml" Line="958" Column="1" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/CustomerListviewDetailPage.xaml.cs" Line="342" Column="65" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/LeadCreationPage.xaml.cs" Line="85" Column="69" />
+      <File FileName="SalesApp/SalesApp.Android/Toast_Android.cs" Line="17" Column="1" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp.Android/Toast_Android.cs" Line="5" Column="49" />
+      <File FileName="SalesApp/SalesApp/views/Toast.cs" Line="5" Column="1" />
+      <File FileName="../../Com Projects/Laborindo/SalesApp/SalesApp/views/Toast.cs" Line="13" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/SalesQuotationsListviewDetail.xaml.cs" line="1347" column="1" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/SalesQuotationsListviewDetail.xaml.cs" line="473" column="59" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/SalesQuotationsListviewDetail.xaml.cs" line="1342" column="1" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/SalesQuotationsListviewDetail.xaml.cs" line="1496" column="1" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/SalesQuotationsListviewDetail.xaml.cs" line="1516" column="54" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/SalesQuotationsListviewDetail.xaml.cs" line="1600" column="1" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/SalesQuotationsListviewDetail.xaml.cs" line="1600" column="1" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/SalesQuotationsListviewDetail.xaml.cs" line="1631" column="58" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/SalesQuotationsListviewDetail.xaml.cs" line="1586" column="1" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/SalesQuotationsListviewDetail.xaml.cs" line="1491" column="1" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/SalesQuotationsListviewDetail.xaml.cs" line="1374" column="1" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/SalesQuotationsListviewDetail.xaml.cs" line="556" column="1" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/SalesQuotationsListviewDetail.xaml.cs" line="1189" column="1" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/MasterPage.xaml.cs" line="235" column="1" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/MasterPage.xaml.cs" line="174" column="1" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/SalesQuotationCreationPage.xaml.cs" line="1394" column="212" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/Pages/PickerSelectionPage.xaml.cs" line="79" column="1" />
+      <Breakpoint file="/Projects/Updated Apps/Telering/Telering/SalesApp/SalesApp/views/SalesQuotationCreationPage.xaml.cs" line="406" column="1" />
+      <Breakpoint file="/Users/Projects/Telering/Telering/SalesApp/SalesApp/OdooRpc/OdooRPC.cs" line="239" column="1" />
+      <Breakpoint file="/Users/Projects/Telering/Telering/SalesApp/SalesApp/App.xaml.cs" line="229" column="1" />
+      <Breakpoint file="/Com Projects/Laborindo/SalesApp/SalesApp/views/CRMLeadCreationPage.xaml.cs" line="276" column="96" />
+      <Breakpoint file="/Com Projects/Laborindo/SalesApp/SalesApp/models/Controller.cs" line="917" column="1" />
+      <Breakpoint file="/Com Projects/Laborindo/SalesApp/SalesApp/views/SalesTargetPage.xaml.cs" line="16" column="71" />
+      <Breakpoint file="/Com Projects/Laborindo/SalesApp/SalesApp/views/SaleListviewPage.xaml.cs" line="23" column="1" />
+      <Breakpoint file="/Com Projects/Laborindo/SalesApp/SalesApp/Pages/CalendarPopupPage.xaml.cs" line="605" column="1" />
+      <Breakpoint file="/Com Projects/Laborindo/SalesApp/SalesApp/Pages/CalendarPopupPage.xaml.cs" line="459" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../Users/Projects/Telering/Telering/SalesApp/SalesApp/views/SalesQuotationCreationPage.xaml.cs" line="1258" offsetX="428" offsetY="20112" expression="5" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.SalesApp.Android PreferredExecutionTarget="Android.ak-devie" />
+</Properties>

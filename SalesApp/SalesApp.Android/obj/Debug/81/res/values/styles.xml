@@ -1,0 +1,5 @@
+<resources><style name="Theme.Splash" parent="android:Theme"><item name="android:windowBackground">@drawable/splashlogohm</item><item name="android:windowNoTitle">true</item></style><style name="AppTheme" parent="android:Theme.Holo.Light"><item name="android:actionBarStyle">@style/ActionBarTheme</item></style><style name="ActionBarTheme" parent="android:Widget.Holo.Light.ActionBar.Solid.Inverse"><item name="android:background">@color/color_action_bar</item></style><style name="MainTheme" parent="MainTheme.Base"></style><!-- Base theme applied no matter what API --><style name="MainTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar"><!--If you are using revision 22.1 please use just windowNoTitle. Without android:--><item name="windowNoTitle">true</item></style><!-- <Style x:Key="defaultLabel" TargetType="Label">
+    <Setter Property="FontFamily" Value="Pacifico.ttf#Pacifico" />
+   </Style>--><!--   <Label x:Name="label" Style="{StaticResource defaultLabel}"
+       Text="{Binding Source={x:Reference label}, 
+                      Path=Font, StringFormat='Default: {0}'}}" />--></resources>
